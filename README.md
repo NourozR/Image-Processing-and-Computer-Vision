@@ -1,3 +1,3 @@
 # Image Processing and Computer Vision Related Practice Problems Using SciPy NumPy:
 
-This repo contains codes of all my practice problems of Computer Vision and Image Processing using Python Library: NumPy, PIL, SciPy
+This repo contains codes of all my practice problems of Computer Vision and Image Processing using Python Libraries: NumPy, PIL, SciPy, OpenCV
