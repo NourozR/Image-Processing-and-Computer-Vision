@@ -13,4 +13,4 @@ This repo contains codes of all my practice problems of Computer Vision and Imag
 - denoising with median kernel
 
 # image_processing_3.py contains functions for:
-- edge detection with Sobel Gradient Operator
+- edge detection with Sobel Gradient Operator (Sobel Operator: https://en.wikipedia.org/wiki/Sobel_operator )
